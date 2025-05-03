@@ -1,5 +1,5 @@
 # AgenticAI with LangChain
-<img width="1496" alt="image" src="https://github.com/user-attachments/assets/165e633f-7305-46b1-b483-fbac61169df4" />
+<img width="1496" alt="image" src="https://github.com/user-attachments/assets/46b59d9a-fe24-4404-a3d1-020ee320f46c" />
 
 ## LAB6: Connect LINE to Gemini
 1. Navigate to the project directory:
