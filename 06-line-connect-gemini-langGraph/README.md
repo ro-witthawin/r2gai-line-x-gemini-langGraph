@@ -1,6 +1,7 @@
-# [R2GAI] Building AI Agent with Gemini and LINE Messaging API
+# AgenticAI with LangChain
+<img width="1496" alt="image" src="https://github.com/user-attachments/assets/165e633f-7305-46b1-b483-fbac61169df4" />
 
-## LAB3: Connect LINE to Gemini
+## LAB6: Connect LINE to Gemini
 1. Navigate to the project directory:
    ```bash
    cd 06-line-connect-gemini-langGraph
